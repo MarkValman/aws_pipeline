@@ -24,4 +24,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: yes
-  base-directory: my-build-mark
+  base-directory: dist
